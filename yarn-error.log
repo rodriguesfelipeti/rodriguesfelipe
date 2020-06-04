@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add inquirer
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\a0095754\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\Git\cmd;%MAVEN_HOME%\bin;%JAVA_HOME%\bin;C:\Program Files\Java\jdk1.7.0_80\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\a0095754\AppData\Local\Android\Sdk\tools;C:\Users\a0095754\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Redis;C:\Users\a0095754\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\a0095754\AppData\Local\Programs\Python\Python38-32;C:\Users\a0095754\AppData\Local\Microsoft\WindowsApps;C:\Users\a0095754\AppData\Local\Programs\Microsoft VS Code\bin;C:\java\apache-maven-3.5.2\bin;C:\Users\a0095754\AppData\Local\Yarn\bin;C:\Program Files\Java\jdk1.7.0_80\bin;C:\Program Files;C:\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs;C:\Program Files\PuTTY;C:\Users\a0095754\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\a0095754\AppData\Local\Programs\Python\Python38-32;C:\Users\a0095754\AppData\Local\Microsoft\WindowsApps;C:\Users\a0095754\AppData\Local\Programs\Microsoft VS Code\bin;C:\java\apache-maven-3.5.2\bin;C:\Users\a0095754\AppData\Local\Yarn\bin;C:\Program Files\Java\jdk1.7.0_80\bin;C:\Program Files\GrafanaLabs\grafana\bin;C:\Users\a0095754\AppData\Local\Android\Sdk\platform-tools;C:\Users\a0095754\AppData\Local\Android\Sdk\tools;C:\Program Files\Redis;C:\nvm;C:\Program Files\nodejs;C:\Users\a0095754\AppData\Roaming\npm
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\a0095754\AppData\Local\Yarn\Cache\v6\npm-rxjs-6.5.5-c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec-integrity\node_modules\rxjs\src\internal\testing\ColdObservable.ts' -> 'C:\Users\a0095754\Desktop\Felipe\personal\npx-resume\node_modules\rxjs\src\internal\testing\ColdObservable.ts'
+
+npm manifest: 
+  {
+    "name": "npx-resume",
+    "description": "Felipe Rodrigues resume, updated June 2020",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "resume": "node ./index.js"
+    },
+    "author": "felipeRodrigues"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
