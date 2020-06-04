@@ -1,6 +1,5 @@
-# rodriguesfelipe
-Resume Npx Card
+Resume Npx
 
 # npx rodriguesfelipe #
 
-![Alt text]("rodriguesfelipe.png") 
+![image](rodriguesfelipe.png)
